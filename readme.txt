@@ -1,5 +1,6 @@
 百度网盘链接
-
+链接：https://pan.baidu.com/s/15MLLaTRakHzcsCHdBdm02w 
+提取码：j52w 
 
 
 进入账户   long  密码为  1 
@@ -12,8 +13,9 @@ omm密码为 omm
 gs_om -t start
 gs_om -t stop && gs_om -t start
 
+百度的文件也可以找我copy
 
 即可成功打开
 
-有问题来找我sxl
+有问题Google 百度  sxl
 
