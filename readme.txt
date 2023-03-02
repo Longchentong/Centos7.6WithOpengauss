@@ -11,8 +11,7 @@ omm密码为 omm
 
 然后输入
 gs_om -t start
-gs_om -t stop && gs_om -t start
-
+gsql -d postgres -p 15400
 百度的文件也可以找我copy
 
 即可成功打开
